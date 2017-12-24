@@ -7,3 +7,7 @@
 # Notes to self
 
 - `takeWhile` is a good function to remember whenever filtering lists.
+
+# To look into
+
+- [Accelerate](https://hackage.haskell.org/package/accelerate), especially with CUDA.
